@@ -1,0 +1,12 @@
+import React from 'react';
+
+function ExpenseList() {
+  return (
+    <div>
+      <h2>Expense List</h2>
+      {/* Display list of expenses here */}
+    </div>
+  );
+}
+
+export default ExpenseList;
